@@ -1,5 +1,7 @@
 {
   "NuriaAbilities": {
-    "version": "1.7.1"
+    "version": "2.0.0",
+    "minimum-minecraft": "1.19.4",
+    "download": "https://builtbybit.com/resources/nuriaabilities-boxpvp-abilities.51792/"
   }
 }
